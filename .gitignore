@@ -1,0 +1,13 @@
+.DS_Store
+.vscode/
+instance/
+_mailinglist/*
+.idea/
+*.pyc
+*.pyo
+*.whoosh
+*.db
+env
+env/
+dist
+*.egg-info
